@@ -1,7 +1,7 @@
 const express = require('express');
 const path = require('path');
 const nodemailer = require('nodemailer');
-const env=require("dotenv").config()
+//const env=require("dotenv").config()
 const bodyParser=require("body-parser")
 const app = express();
 // Static folder
