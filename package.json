@@ -1,0 +1,17 @@
+{
+  "name": "LYDN WEBSITE",
+  "version": "1.0.0",
+  "description": "a full stack node.js school website with form submission using nodemailer and smtp",
+  "main": "server.js",
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemailer": "^6.6.3",
+    "nodemon": "^2.0.12"
+  },
+  "keywords": []
+}
